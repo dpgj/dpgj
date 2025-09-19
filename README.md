@@ -1,6 +1,6 @@
  # 79 About me
 ![OS Win](https://img.shields.io/badge/OS-Win-0078D4?style=flat&logo=windows&logoColor=white)
-[![Python](https://img.shields.io/badge/%20Python%203.8-1f425f.svg?logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/%20Python%20-1f425f.svg?logo=python)](https://www.python.org/)
 ![𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭](https://img.shields.io/badge/Javascript-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![𝐇𝐓𝐌𝐋](https://img.shields.io/badge/HTML-f06529?style=flat&logo=html5&logoColor=white)
 
